@@ -1,0 +1,103 @@
+/*
+html {
+	text-align: center;
+	justify-content: center;
+	
+}
+*/
+
+.cntnr {
+	
+	justify-content: center;
+	  align-content: center;
+	  text-align: center;
+	margin: auto;
+}
+
+.oalogo img {
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	padding-top: 5rem;
+	justify-content: center;
+	padding-bottom: 4rem;
+}
+
+.fl img {
+	float: left;
+	padding-top: 1.2rem;
+	width: 100%;
+}
+
+.mxw-48 {
+	float: left;
+	padding-top: 1.2rem;
+	width: 48%;
+}
+
+.ml-4 {
+	justify-content: flex-end;
+	margin-left: 4%;
+}
+
+.pt-1rem {
+	padding-top: 1.2rem;
+}
+
+.menu {
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+	font-family: 'agency fb';
+}
+
+.clr-gri {
+	color:#5F5F5F;
+	font-size: 20px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	color: black;
+}
+
+p {
+	font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
